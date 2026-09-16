@@ -1,0 +1,7 @@
+{
+  "name": "Junior AI Science Lab",
+  "description": "An interactive, kid-friendly science lab simulator with hands-on experiments in eruptions, gravity, circuits, rockets, and biology, explained simply for young learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
